@@ -12,7 +12,8 @@
     "is-absolute-url": "^1.0.0",
     "node-useref": "^0.3.1",
     "strip-bom": "^0.3.1",
-    "through2": "^0.6.1"
+    "through2": "^0.6.1",
+    "brace-expand-join": "^0.1.0"
   },
   "devDependencies": {
     "mocha": "*",
